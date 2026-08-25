@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/WYRE-AI/node-alternative-payments/compare/v1.0.1...v1.0.2) (2026-08-25)
+
+
+### Bug Fixes
+
+* migrate to WYRE-AI org (npm scope, ghcr namespace, registry) ([#16](https://github.com/WYRE-AI/node-alternative-payments/issues/16)) ([09bd71e](https://github.com/WYRE-AI/node-alternative-payments/commit/09bd71ea5a2e579e3799e9084aa336539c38e7f4))
+
 ## [1.0.1](https://github.com/WYRE-AI/node-alternative-payments/compare/v1.0.0...v1.0.1) (2026-08-13)
 
 

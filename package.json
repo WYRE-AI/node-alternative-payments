@@ -1,6 +1,6 @@
 {
   "name": "@wyre-ai/node-alternative-payments",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Node.js/TypeScript client library for the Alternative Payments API",
   "type": "module",
   "main": "./dist/index.cjs",
