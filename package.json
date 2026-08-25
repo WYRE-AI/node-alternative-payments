@@ -1,5 +1,5 @@
 {
-  "name": "@wyre-technology/node-alternative-payments",
+  "name": "@wyre-ai/node-alternative-payments",
   "version": "1.0.1",
   "description": "Node.js/TypeScript client library for the Alternative Payments API",
   "type": "module",
@@ -45,7 +45,7 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wyre-technology/node-alternative-payments.git"
+    "url": "git+https://github.com/WYRE-AI/node-alternative-payments.git"
   },
   "devDependencies": {
     "@semantic-release/changelog": "^7.0.0",

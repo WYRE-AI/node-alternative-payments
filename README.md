@@ -6,24 +6,24 @@
 Node.js/TypeScript client library for the [Alternative Payments](https://www.alternativepayments.io/)
 API — manage customers, invoices, payment requests, transactions, payouts, and webhooks.
 
-> Maintained by [Wyre Technology](https://github.com/wyre-technology).
+> Maintained by [Wyre Technology](https://github.com/WYRE-AI).
 
 ## Install
 
 ```bash
-npm install @wyre-technology/node-alternative-payments
+npm install @wyre-ai/node-alternative-payments
 ```
 
 This package is published to GitHub Packages. Add to your `.npmrc`:
 
 ```
-@wyre-technology:registry=https://npm.pkg.github.com
+@wyre-ai:registry=https://npm.pkg.github.com
 ```
 
 ## Quick start
 
 ```ts
-import { AlternativePaymentsClient } from '@wyre-technology/node-alternative-payments';
+import { AlternativePaymentsClient } from '@wyre-ai/node-alternative-payments';
 
 const client = new AlternativePaymentsClient({
   clientId: process.env.AP_CLIENT_ID!,
@@ -80,7 +80,7 @@ import {
   NotFoundError,
   ValidationError,
   RateLimitError,
-} from '@wyre-technology/node-alternative-payments';
+} from '@wyre-ai/node-alternative-payments';
 
 try {
   await client.customers.get('missing');
