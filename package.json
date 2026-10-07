@@ -48,8 +48,6 @@
     "url": "git+https://github.com/WYRE-AI/node-alternative-payments.git"
   },
   "devDependencies": {
-    "@semantic-release/changelog": "^7.0.0",
-    "@semantic-release/git": "^11.0.1",
     "@semantic-release/github": "^12.0.10",
     "@semantic-release/npm": "^13.2.0",
     "@types/node": "^26.6.4",
